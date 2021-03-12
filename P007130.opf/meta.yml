@@ -5,11 +5,13 @@ source_metadata:
   title: ཆུ་ཡི་སྦགས་བཙོག་འགོག་སེལ་བྱེད་ཕྱོགས་སྐོར་གྱི་ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ་ཀྱི་བཅའ་ཁྲིམས།
   author: ''
   volumes:
-    c09c81d82d184952b1991cce2af10d05:
+    5cea23f934b845a48702729e9d407fb1:
       image_group_id: I8LS18879
-      title: ''
+      title: Volume 1 of chu yi sbags btsog 'gog sel byed phyogs skor gyi krung hwa
+        mi dmangs spyi mthun rgyal khab kyi bca' khrims/
       volume_number: 1
       total_pages: 78
+      base_file: v001.txt
 ebook_metadata:
   title: ཆུ་ཡི་སྦགས་བཙོག་འགོག་སེལ་བྱེད་ཕྱོགས་སྐོར་གྱི་ཀྲུང་ཧྭ་མི་དམངས་སྤྱི་མཐུན་རྒྱལ་ཁབ་ཀྱི་བཅའ་ཁྲིམས།
   author: ''
